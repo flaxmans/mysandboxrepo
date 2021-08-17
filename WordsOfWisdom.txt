@@ -1,1 +1,3 @@
 The early bird gits the worm!
+
+You don't have to break eggs to git an omlette.
